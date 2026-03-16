@@ -1,0 +1,10 @@
+# ANSYS Temporary and Result files
+*.rst
+*.res
+*.err
+*.log
+*.ant
+*.bak
+*.tmp
+*_backup/
+*.page
